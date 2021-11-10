@@ -1,1 +1,1 @@
-# nodetest
+docker build -t nodetest .
